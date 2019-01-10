@@ -1,6 +1,7 @@
 {
   "moblet": {
     "label": "Moblet de Reward",
-    "hint": "Crie um Moblet de recompensas"    
+    "hint": "Crie um Moblet de recompensas",
+    "description": "Moblet de pontos e recompensas"    
   }
 }
