@@ -1,9 +1,9 @@
 /* eslint no-undef: [0]*/
 
 module.exports = {
-  title: "mList",
-  style: "m-list.less",
-  template: 'm-list.html',
+  title: "mRewards",
+  style: "m-rewards.less",
+  template: 'm-rewards.html',
   i18n: {
     pt: "lang/pt-BR.json",
     es: "lang/es-ES.json",
