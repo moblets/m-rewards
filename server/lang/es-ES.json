@@ -1,7 +1,7 @@
 {
   "moblet": {
-    "label": "Moblet de Reward",
-    "hint": "Crie um Moblet de recompensas",
-    "description": "Moblet de pontos e recompensas"    
+    "label": "Fidelidad",
+    "hint": "Fidelice a sus clientes",
+    "description": "Funcionalidad de la fidelidad"
   }
 }
