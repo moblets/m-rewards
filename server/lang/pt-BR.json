@@ -1,6 +1,7 @@
-
-"moblet": {
+{
+  "moblet": {
     "label": "Fidelidad",
     "hint": "Fidelice a sus clientes",
     "description": "Funcionalidad de la fidelidad"
+  }
 }
