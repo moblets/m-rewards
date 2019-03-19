@@ -5,7 +5,7 @@
       "type": "select",
       "required": false,
       "values": {
-        "layout-1": "item_type_1",
+        "layout-1": "item_type_1"
       }
     }
   ]
