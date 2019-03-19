@@ -3,5 +3,8 @@
     "label": "Fidelity",
     "hint": "Fidelize your customers",
     "description": "Fidelity Functionality"
+  },
+  "button": {
+    "label": "Manage"
   }
 }

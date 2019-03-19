@@ -1,8 +1,8 @@
 {
   "fields": [
     {
-      "name": "search",
-      "type": "toggle"
+      "name": "button",
+      "type": "button"
     }
   ]
 }
