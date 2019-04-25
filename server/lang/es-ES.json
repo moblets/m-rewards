@@ -2,7 +2,8 @@
   "moblet": {
     "label": "Fidelidad",
     "hint": "Fidelice a sus clientes",
-    "description": "Funcionalidad de la fidelidad"
+    "description": "Funcionalidad de la fidelidad",
+    "tutorial_link": "https://suporte.fabricadeaplicativos.com.br/hc/pt-br/sections/360004054071-Sistema-Fidelidade-"
   },
   "button": {
     "label": "Gestionar"
