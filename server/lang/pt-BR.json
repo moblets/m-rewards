@@ -2,8 +2,8 @@
   "moblet": {
     "label": "Fidelidade",
     "hint": "Fidelize seus clientes",
-    "description": "Funcionalidade de Fidelidade",   
-    "tutorial_link": "https://suporte.fabricadeaplicativos.com.br/hc/pt-br/sections/360004054071-Sistema-Fidelidade-"
+    "description": "Funcionalidade de Fidelidade",
+    "tutorial_link": "https://ajuda.fabapp.com/pt-BR/articles/3783844-fidelidade"
   },
   "button": {
     "label": "Gerenciar"
